@@ -1,0 +1,71 @@
+7/21/2025 8:28:37 AM Info Project 'hpm01' created successfully and added to workspace
+7/21/2025 8:28:38 AM Info Loading scenario ID: d2fa89db-1251-4bdf-b1bf-4b96016aaea4, URI: http://localhost:9098/Scenarios/d2fa89db-1251-4bdf-b1bf-4b96016aaea4/Index.html
+7/21/2025 8:29:07 AM Info Access token request created. CorrelationId: {1EE928C7-4E19-494D-BD37-09A89668C48C}
+7/21/2025 8:30:01 AM Info Clear all Config Template answers
+7/21/2025 8:30:01 AM Info Save Config Template answers for active project
+7/21/2025 8:30:01 AM Info !ConfigureTemplate, Value: true
+7/21/2025 8:30:01 AM Info !EnableSharedPC, Value: false
+7/21/2025 8:30:01 AM Info !enableDeviceSharing_display, Value: Yes
+7/21/2025 8:30:01 AM Info !disableDeviceSharing, Value: No
+7/21/2025 8:30:01 AM Info SharedPC//EnableSharedPCMode, Value: true
+7/21/2025 8:30:01 AM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+7/21/2025 8:30:01 AM Info SharedPC//AccountManagement//AccountModel, Value: 2
+7/21/2025 8:30:01 AM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+7/21/2025 8:30:01 AM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+7/21/2025 8:30:01 AM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+7/21/2025 8:30:01 AM Info SharedPC//ConfigureApplications, Value: true
+7/21/2025 8:30:01 AM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+7/21/2025 8:30:01 AM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+7/21/2025 8:30:01 AM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+7/21/2025 8:30:01 AM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+7/21/2025 8:30:01 AM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+7/21/2025 8:30:01 AM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+7/21/2025 8:30:01 AM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+7/21/2025 8:30:01 AM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+7/21/2025 8:30:01 AM Info Policies//Update//AllowAutoUpdate, Value: 4
+7/21/2025 8:30:01 AM Info !EnableCleanPC, Value: false
+7/21/2025 8:30:01 AM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+7/21/2025 8:30:01 AM Info !EnableCleanPcDisplayFalse, Value: No
+7/21/2025 8:30:01 AM Info OOBE/Desktop/HideOOBE, Value: true
+7/21/2025 8:30:01 AM Info DevDetail//DNSComputerName, Value: HPM-%SERIAL%
+7/21/2025 8:30:01 AM Info !ConfigureTemplate, Value: true
+7/21/2025 8:30:01 AM Info !ConfigureWiFi, Value: false
+7/21/2025 8:30:01 AM Info !configureWiFi_transparent, Value: Wired
+7/21/2025 8:30:01 AM Info !SecurityType, Value: Open
+7/21/2025 8:30:01 AM Info !ConfigureTemplate, Value: true
+7/21/2025 8:30:01 AM Info !domainJoin, Value: domainJoin.2
+7/21/2025 8:30:01 AM Info !bprtCredentialCacheRefresh, Value: true
+7/21/2025 8:30:01 AM Info bprtExpiry, Value: 2026-01-17T14:29:02.339Z
+7/21/2025 8:30:01 AM Info !admin_usergroup, Value: 2
+7/21/2025 8:30:01 AM Info Accounts//Azure//BPRT, Value: 1.ASwAPIsUxaPTJU6JoyKSoTGDUo9bDbkDVVNBtUWzHOz67OIsAK0sAA.AgABAwEAAABVrSpeuWamRam2jAF1XRQEAwDs_wUA9P_o_R8YSm6aSExSupFrHuyIhxmyiPdCK-lxJZJLBYdUyy_38e_5oPhd-nAi-mhD3Wo4OWvf2YJbBvB_ZyHjrph4F4SLmnlGvRcqaMoJwt3VJOXAgaibD7rh4Mq1CO5uxN5D-95xwYwoo7bY7DEqdPWsR1lgfCwJntSJfE52o2mQ7lT---GiY866dNR522hdmsV8e7Sixl4lEGDXWD8wEU0XShtcdsXNtg5nnN15D5WQQ_FzzwwCHYsinFkVYajOc9Gw83vthoP8xlZ1oXXeAT8FBPSoj3SEOsmdhKyZcJQBOGgJtDPHXhhzWFsHPR5z421svReck--Sgy7uHxjUDEMooKAOqTra4MdkoMYSo_SWOSgbt5THpxDK2tq0CSqL6HSTkkR9CgTJpXbYL5qlSQFFXEyohbrVceh65RNA778Mi1efhowZ1G7xRojyNVHApmv8ITrv5Nq-0EPCxiq2L_dgTvyRfhT5Cy7beNCHTiFuZ9e76ghO-urffCkAErxZXCPav7OYWUZI65KjlsD5n0NDhUU4U7w4Khjv1h4vBH2DIA-6v88Ijv8C3fBBfiAur3WVJq7v5k12Oy7nGpP0LcOyf7Ot58EERoeP5LufwZfu9b7TflugjM2fydsqwtsEQ6Lcs1k1b9rvIHVDCRQWBLOPFyj3L7_vBjT5SI-Mh3Snlm7_lU7R87F75sYevJIan-j0cJcM3saN84-ICctJRwtsIFfsO6jhRPCdCpFBohW4PUyfkSEy-nMzRT8QDZoYNdw4eG1wUVolxJcsfjWgeaaPHvMOO75GFl3cMZ4HGNDsotMbh-d9gkOzbPEZDr_Zt56Sbiso1vqGod3gDYnH2Fgej1q_Db495gpg_l36Rrr6wliR2LIA8utK3TxB6h8odPeozbnQawLzx4T-AUiOEZhd8CcCll8nPhri1Qg9NxLCSzwI6yRB9kr3W2Ov_lSo-WYH4Q
+7/21/2025 8:30:01 AM Info Accounts//Azure//Authority, Value: https://login.microsoftonline.com/common
+7/21/2025 8:30:01 AM Info Accounts//Users, Value: gtglocal
+7/21/2025 8:30:01 AM Info !admin_password, Value: d4ncingCanM4n!
+7/21/2025 8:30:01 AM Info Accounts//Users//gtglocal//Password, Value: d4ncingCanM4n!
+7/21/2025 8:30:01 AM Info Accounts//Users//gtglocal//UserGroup, Value: 2
+7/21/2025 8:30:01 AM Info !ConfigureTemplate, Value: true
+7/21/2025 8:30:01 AM Info !SetupApplications, Value: true
+7/21/2025 8:30:01 AM Info ProvisioningCommands//PrimaryContext//Command, Value: []
+7/21/2025 8:30:01 AM Info UniversalAppInstall//DeviceContextApp, Value: []
+7/21/2025 8:30:01 AM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+7/21/2025 8:30:01 AM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+7/21/2025 8:30:01 AM Info !ConfigureTemplate, Value: true
+7/21/2025 8:30:01 AM Info !SetupCertificates, Value: true
+7/21/2025 8:30:01 AM Info Certificates//RootCertificates, Value: []
+7/21/2025 8:30:01 AM Info Start provisioning package build
+7/21/2025 8:30:01 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-633_36124.10_2043896218.1'
+7/21/2025 8:30:01 AM Info Adding runtime settings to Provisioning Package
+7/21/2025 8:30:01 AM Info CreateTempDirectory: Create directory: C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-665_36124.10_684269194.2
+7/21/2025 8:30:01 AM Info provxml writer, path = C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-665_36124.10_684269194.2\Prov\RunTime\0__Accounts_Azure.provxml
+7/21/2025 8:30:01 AM Info provxml writer, path = C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-665_36124.10_684269194.2\Prov\RunTime\1__Accounts_Users_gtglocal.provxml
+7/21/2025 8:30:01 AM Info provxml writer, path = C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-665_36124.10_684269194.2\Prov\RunTime\2__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+7/21/2025 8:30:01 AM Info provxml writer, path = C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-665_36124.10_684269194.2\Prov\RunTime\3__DevDetail_DNSComputerName.provxml
+7/21/2025 8:30:01 AM Info provxml writer, path = C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-665_36124.10_684269194.2\Prov\RunTime\4__OOBE_Desktop_HideOobe.provxml
+7/21/2025 8:30:01 AM Info Adding deployment settings to Provisioning Package
+7/21/2025 8:30:01 AM Info Adding file assets to Provisioning Package
+7/21/2025 8:30:01 AM Info CopyFile: Source path: C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-776_36124.10_876433021.cat, Target path: D:\PPKG\New folder\hpm01.cat
+7/21/2025 8:30:01 AM Info CopyFile: Source path: C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-633_36124.10_2043896218.1, Target path: D:\PPKG\New folder\hpm01.ppkg
+7/21/2025 8:30:01 AM Info DeleteFile: File '' does not exist
+7/21/2025 8:30:01 AM Info DeleteFile: File 'C:\Users\roth0\AppData\Local\Temp\ICD_20250721-083001-633_36124.10_2043896218.1' does not exist
+7/21/2025 8:30:01 AM Info Provisioning package build is completed with result: Success
+7/21/2025 8:30:01 AM Info Sent message to all clients for project 31b5a839-39ed-49e2-a851-0f4731f03904

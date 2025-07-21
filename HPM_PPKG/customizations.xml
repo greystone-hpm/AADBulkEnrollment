@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowsCustomizations>
+  <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
+    <ID>{31b5a839-39ed-49e2-a851-0f4731f03904}</ID>
+    <Name>hpm01</Name>
+    <Version>1.1</Version>
+    <OwnerType>OEM</OwnerType>
+    <Rank>0</Rank>
+    <Notes />
+  </PackageConfig>
+  <Settings xmlns="urn:schemas-microsoft-com:windows-provisioning">
+    <Customizations>
+      <Common>
+        <Accounts>
+          <Azure>
+            <Authority>https://login.microsoftonline.com/common</Authority>
+            <BPRT>1.ASwAPIsUxaPTJU6JoyKSoTGDUo9bDbkDVVNBtUWzHOz67OIsAK0sAA.AgABAwEAAABVrSpeuWamRam2jAF1XRQEAwDs_wUA9P_o_R8YSm6aSExSupFrHuyIhxmyiPdCK-lxJZJLBYdUyy_38e_5oPhd-nAi-mhD3Wo4OWvf2YJbBvB_ZyHjrph4F4SLmnlGvRcqaMoJwt3VJOXAgaibD7rh4Mq1CO5uxN5D-95xwYwoo7bY7DEqdPWsR1lgfCwJntSJfE52o2mQ7lT---GiY866dNR522hdmsV8e7Sixl4lEGDXWD8wEU0XShtcdsXNtg5nnN15D5WQQ_FzzwwCHYsinFkVYajOc9Gw83vthoP8xlZ1oXXeAT8FBPSoj3SEOsmdhKyZcJQBOGgJtDPHXhhzWFsHPR5z421svReck--Sgy7uHxjUDEMooKAOqTra4MdkoMYSo_SWOSgbt5THpxDK2tq0CSqL6HSTkkR9CgTJpXbYL5qlSQFFXEyohbrVceh65RNA778Mi1efhowZ1G7xRojyNVHApmv8ITrv5Nq-0EPCxiq2L_dgTvyRfhT5Cy7beNCHTiFuZ9e76ghO-urffCkAErxZXCPav7OYWUZI65KjlsD5n0NDhUU4U7w4Khjv1h4vBH2DIA-6v88Ijv8C3fBBfiAur3WVJq7v5k12Oy7nGpP0LcOyf7Ot58EERoeP5LufwZfu9b7TflugjM2fydsqwtsEQ6Lcs1k1b9rvIHVDCRQWBLOPFyj3L7_vBjT5SI-Mh3Snlm7_lU7R87F75sYevJIan-j0cJcM3saN84-ICctJRwtsIFfsO6jhRPCdCpFBohW4PUyfkSEy-nMzRT8QDZoYNdw4eG1wUVolxJcsfjWgeaaPHvMOO75GFl3cMZ4HGNDsotMbh-d9gkOzbPEZDr_Zt56Sbiso1vqGod3gDYnH2Fgej1q_Db495gpg_l36Rrr6wliR2LIA8utK3TxB6h8odPeozbnQawLzx4T-AUiOEZhd8CcCll8nPhri1Qg9NxLCSzwI6yRB9kr3W2Ov_lSo-WYH4Q</BPRT>
+          </Azure>
+          <Users>
+            <User UserName="gtglocal">
+              <Password>d4ncingCanM4n!</Password>
+              <UserGroup>Administrators</UserGroup>
+            </User>
+          </Users>
+        </Accounts>
+        <DevDetail>
+          <DNSComputerName>HPM-%SERIAL%</DNSComputerName>
+        </DevDetail>
+        <OOBE>
+          <Desktop>
+            <HideOobe>True</HideOobe>
+          </Desktop>
+        </OOBE>
+        <Policies>
+          <ApplicationManagement>
+            <AllowAllTrustedApps>Yes</AllowAllTrustedApps>
+          </ApplicationManagement>
+        </Policies>
+      </Common>
+    </Customizations>
+  </Settings>
+</WindowsCustomizations>
